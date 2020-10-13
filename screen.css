@@ -136,7 +136,7 @@ img {
     {
         display: flex;
         justify-content: space-evenly;
-        margin: 38% 20%;
+        margin: 55% 20%;
     }
     .fleche
     {
@@ -880,9 +880,12 @@ footer
 }
 .footer1
 {
-    margin-bottom: 20px;
-    font-size: 200%;
-    margin-left: 20px;
+  margin-bottom: 20px;
+  font-size: 200%;
+  margin-left: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 5% 30%;
 }
 .logo
 {
