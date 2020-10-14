@@ -812,13 +812,11 @@ footer
 }
 .footer1
 {
-  margin-bottom: 20px;
   font-size: 200%;
   margin-left: 20px;
   display: flex;
   justify-content: space-evenly;
-  margin: 5% 15%;
-  margin-top: 30%;
+  margin: 30% 5% 10% 5%;
 }
 }
 @media all and (max-width: 800px)
