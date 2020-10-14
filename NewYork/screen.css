@@ -90,6 +90,25 @@ img {
         margin: 57% 0%;
     }
 }
+@media only screen and (max-width: 600px) {
+  .block {
+      margin-bottom: 100px;
+  }
+  .block-last {
+      margin-bottom: 60px;
+  }
+  .block-left, .block-right {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+  }
+  .titre {
+      text-align: center;
+      line-height: 1;
+      font-size: 300%;
+      margin: 69% 0%;
+  }
+}
 @media only screen and (max-width: 375px) {
     .titre {
         text-align: center;
