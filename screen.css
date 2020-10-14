@@ -59,6 +59,16 @@ img {
     transition: 0.2s ease-in;
 }
 }
+@media all and (max-width: 1024px){
+  .titre
+  {
+    color: white;
+    text-align: center;
+    font-family: 'Rokkitt', serif;
+    font-size: 350%;
+    margin-top: -5%;
+  }
+}
 @media all and (max-width: 900px){
     .titrebrume
     {
