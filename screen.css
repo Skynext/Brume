@@ -9,7 +9,7 @@ body {
     font-family: 'Rokkitt', serif;
     line-height: 1.625;
     margin: 0;
-    color: #6F6F6F;
+    color: white;
 }
 a {
     color: inherit;
@@ -789,6 +789,34 @@ footer
 }
 @media all and (max-width: 800px)
 {
+.section {
+    color: #ffffff;
+    font-family: 'Bungee Hairline', cursive;
+}
+.section1 {
+    color: #ffffff;
+    font-family: 'Bungee Hairline', cursive;
+}
+.section2 {
+    color: #ffffff;
+    font-family: 'Bungee Hairline', cursive;
+}
+.section3 {
+    color: #ffffff;
+    font-family: 'Bungee Hairline', cursive;
+}
+.section4 {
+    color: #ffffff;
+    font-family: 'Bungee Hairline', cursive;
+}
+.section5 {
+    color: #ffffff;
+    font-family: 'Bungee Hairline', cursive;
+}
+.section6 {
+    color: #ffffff;
+    font-family: 'Bungee Hairline', cursive;
+}
 .baseline {
     padding: 50px 0 70px 0;
     text-align:center;
